@@ -884,4 +884,5 @@
 - [**Gadget GPT**](https://chat.openai.com/g/g-BJS7fdmdo-gadget-gp): Gadget-2 expert, integrates C source code into explanations.
 - [**GPT / Next.js 14 Coding helper**](https://chat.openai.com/g/g-aIo36J7pg-gpt-next-js-14-coding-help): Expert in OpenAI API and Nextjs 14 programming - by sean stobo
 - [**CTF Challenge Creator**](https://chat.openai.com/g/g-LBplFgqpK-ctf-challenge-crea): Creates engaging CTF challenges - by masafy.org
+- [**CavalierGPT**](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt): Get detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security - by [Hudson Rock](https://www.hudsonrock.com)
 
